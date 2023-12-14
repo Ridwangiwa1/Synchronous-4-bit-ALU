@@ -1,5 +1,5 @@
 # Synchronous-4-bit-ALU
-Building an ALU that have the outputs that prints out  results at certain cycles using Non-blocking, and shift registers concepts
+Building an ALU that have outputs that print out  results at certain cycles using Non-blocking and shift registers concepts
   
 #ALU Functional Specifications 
 4-bit ALU
@@ -16,6 +16,9 @@ Produces:
 2-bit compare_out
 
 Control Signal Values -->> Operation to be performed 
+
+December 2023: 
+I would begin implementing design verification in this module. 
 
 
 
